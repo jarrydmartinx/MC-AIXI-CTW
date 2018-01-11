@@ -1,0 +1,50 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Eclipse
+.cproject
+.project
+/Debug/
+
+/Docs/
+log.*
+
+aixi
+
+# Report
+/final_report/.ipynb_checkpoints/
+/final_report/report.log
+/final_report/report.aux
+/final_report/report.synctex.gz
+/final_report/#report.lyx#
+/final_report/*.eps
+/final_report/*.toc
+
+# cheese-rock-cheese
+/final_report/tmp*
